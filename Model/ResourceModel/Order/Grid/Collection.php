@@ -1,6 +1,6 @@
 <?php
 
-namespace Model\ResourceModel\Order\Grid;
+namespace LauserMedia\OrderOverviewArticles\Model\ResourceModel\Order\Grid;
 
 use Magento\Framework\Data\Collection\Db\FetchStrategyInterface as FetchStrategy;
 use Magento\Framework\Data\Collection\EntityFactoryInterface as EntityFactory;
